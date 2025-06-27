@@ -9,6 +9,7 @@ This project presents a comprehensive visual analysis of Apple App Store data us
 - **Objective:** To uncover data-driven insights about app performance, pricing strategies, and user behavior.
 
 ---
+![image](https://github.com/user-attachments/assets/8e8a5bc3-e42e-4ddf-b2d2-6cab34318b59)
 
 ## 🔍 Key Insights Visualized
 
